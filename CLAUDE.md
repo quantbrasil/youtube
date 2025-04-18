@@ -1,0 +1,3 @@
+- The notebooks in this folder are for a YouTube series. They are educational content.
+- All code should be in English. But all markdown text should be in Portuguese (pt-BR)
+- The notebooks are reading material for the QuantBrasil YouTube channel.
